@@ -3,7 +3,7 @@ library(httr)
 library(base64enc)
 
 # Google Cloud Text-to-Speech API Key
-api_key <- "AIzaSyDCsd7nDsaOyKtS0L6_1ekk2whiHOVgsEI"
+api_key <- "your API"
 
 # Define the general LinkedIn message text using paste() to join multiple lines
 message_text <- paste(
